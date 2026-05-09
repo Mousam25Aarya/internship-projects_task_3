@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Listing</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Products</h1>
+
+<select id="filter" onchange="filterProducts()">
+    <option value="all">All</option>
+    <option value="electronics">Electronics</option>
+    <option value="fashion">Fashion</option>
+</select>
+
+<select id="sort" onchange="sortProducts()">
+    <option value="low">Price Low to High</option>
+    <option value="high">Price High to Low</option>
+</select>
+
+<div id="products"></div>
+
+<script src="script.js"></script>
+</body>
+</html>
