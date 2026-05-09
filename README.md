@@ -69,7 +69,7 @@ internship-projects/
 1. Clone the repository
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/Mousam25Aarya/internship-projects_task_3.git
 ```
 
 2. Open the project folder in VS Code
@@ -101,8 +101,7 @@ git clone <your-repository-link>
 
 ## 🔗 Connect With Me
 
-- GitHub: https://github.com/Mousam25Aarya
-- LinkedIn: Add your LinkedIn profile link
+- GitHub: https://github.com/Mousam25Aarya/internship-projects_task_3.git
 
 ---
 
