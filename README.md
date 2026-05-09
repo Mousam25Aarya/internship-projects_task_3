@@ -101,7 +101,7 @@ git clone https://github.com/Mousam25Aarya/internship-projects_task_3.git
 
 ## 🔗 Connect With Me
 
-- GitHub: https://github.com/Mousam25Aarya/internship-projects_task_3.git
+- GitHub: https://github.com/Mousam25Aarya
 
 ---
 
